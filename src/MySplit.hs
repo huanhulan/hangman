@@ -1,4 +1,4 @@
-module Split where
+module MySplit where
 
 mySplit ::  Char -> String -> [String]
 mySplit _ "" = []
